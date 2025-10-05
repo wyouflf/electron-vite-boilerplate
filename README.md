@@ -12,7 +12,7 @@
 </p>
 
 <p align='center'>
-<img src='./build/electron-vite-vue-ts.png'/>
+<img src='./buildres/electron-vite-vue-ts.png'/>
 </p>
 
 ## Features
